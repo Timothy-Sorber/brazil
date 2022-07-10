@@ -1,0 +1,4 @@
+command /brazil <player>:
+ permission: brazil.sk
+ trigger:
+  apply levitation of tier 20 to arg for 5 seconds
